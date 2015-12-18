@@ -11,8 +11,7 @@ $file = @fopen($url, 'r');
 if ($file)  
 {
   return "Nonexistent account";
-}
-}
-
+}}
+[CALL FUNCTION EXIST('url')]
 echo Exist('https://twitter.com/654545kjjkjgjf');
 ?>
